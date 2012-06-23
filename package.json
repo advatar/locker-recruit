@@ -15,10 +15,7 @@
     "oauthSize": {
       "width": 1000,
       "height": 1000
-    },
-    "profileIds": [
-      "login"
-    ],
+    }
   },
   "engines": {
     "node": ">=0.4.9"
