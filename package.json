@@ -8,6 +8,7 @@
     "handle": "locker-recruit",
     "author": "advatar",
     "update": "auto",
+    "status":"unstable",
     "github": "https://github.com/advatar/locker-recruit",
     "url": "https://github.com/advatar/locker-recruit",
     "type": "connector",
