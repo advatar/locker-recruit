@@ -1,16 +1,16 @@
 {
   "author": "Advatar <johan@sellstrom.me>",
-  "name": "RecruitSatellite",
-  "description": "Recruit Satellite Connector",
+  "name": "sapit",
+  "description": "Allow me to inspect and edit my SAP information",
   "version": "0.0.1",
   "repository": {
-    "title": "RecruitSatellite",
-    "handle": "locker-recruit",
+    "title": "sapit",
+    "handle": "locker-sapit",
     "author": "advatar",
     "update": "auto",
     "status":"unstable",
-    "github": "https://github.com/advatar/locker-recruit",
-    "url": "https://github.com/advatar/locker-recruit",
+    "github": "https://github.com/advatar/locker-sapit",
+    "url": "https://github.com/advatar/locker-sapit",
     "type": "connector",
     "static": "false",
     "oauthSize": {
